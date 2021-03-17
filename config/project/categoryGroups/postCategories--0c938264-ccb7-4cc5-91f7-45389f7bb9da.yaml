@@ -1,0 +1,40 @@
+fieldLayouts:
+  f10f3c49-c73b-4d66-8bda-8fc525ab45f0:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            warning: null
+            width: 100
+        name: Inhoud
+        sortOrder: 1
+handle: postCategories
+name: 'post categories'
+siteSettings:
+  4c1ef523-139f-4301-b6b2-58ea6b2277bb: # Craft
+    hasUrls: true
+    template: null
+    uriFormat: 'blog/categoy/{slug}'
+structure:
+  maxLevels: null
+  uid: 91654e4a-1b72-4e43-9f9d-4f552c626f92

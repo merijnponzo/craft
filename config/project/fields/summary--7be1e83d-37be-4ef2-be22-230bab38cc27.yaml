@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 15b205a5-c247-458b-98de-fc421a8779d9 # blog
+handle: summary
+instructions: ''
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '1'
+  multiline: '1'
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
